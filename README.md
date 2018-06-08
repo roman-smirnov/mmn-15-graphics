@@ -6,8 +6,8 @@ Includes user keyboard control: press 'p' for a perspective projection view, pre
 
 ## Perspective
 
-![Screen Shot 2018-06-08 at 20.48.44](/Users/roman/Desktop/Screen Shot 2018-06-08 at 20.48.44.png)
+![Screen Shot 2018-06-08 at 20.48.44](./Screen Shot 2018-06-08 at 20.48.44.png)
 
 ## Orthographic
 
-![Screen Shot 2018-06-08 at 20.48.59](/Users/roman/Desktop/Screen Shot 2018-06-08 at 20.48.59.png)
+![Screen Shot 2018-06-08 at 20.48.59](./Screen Shot 2018-06-08 at 20.48.59.png)
